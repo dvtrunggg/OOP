@@ -1,0 +1,5 @@
+﻿  bai23.cpp
+D:\oop\lt\bai2.3\bai23.cpp(43,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  bai2.3.vcxproj -> D:\oop\lt\bai2.3\Debug\bai2.3.exe

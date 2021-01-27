@@ -1,0 +1,4 @@
+D:\code\oop\lt\NganHang\TienTietKiem\Debug\TienTietKiem.exe
+D:\code\oop\lt\NganHang\TienTietKiem\Debug\TienTietKiem.pdb
+D:\code\oop\lt\week 5\NganHang\TienTietKiem\Debug\TienTietKiem.exe
+D:\code\oop\lt\week 5\NganHang\TienTietKiem\Debug\TienTietKiem.pdb

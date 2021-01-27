@@ -1,0 +1,2 @@
+D:\code\oop\lt\week 3\bai hoc\constructer and destructer\1\Debug\1.exe
+D:\code\oop\lt\week 3\bai hoc\constructer and destructer\1\Debug\1.pdb

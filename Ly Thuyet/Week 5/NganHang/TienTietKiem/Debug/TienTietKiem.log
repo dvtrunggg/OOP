@@ -1,0 +1,7 @@
+﻿  NganHang.cpp
+D:\code\oop\lt\week 5\NganHang\TienTietKiem\NganHang.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+D:\code\oop\lt\week 5\NganHang\TienTietKiem\NganHang.cpp(15,30): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\code\oop\lt\week 5\NganHang\TienTietKiem\NganHang.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+D:\code\oop\lt\week 5\NganHang\TienTietKiem\NganHang.cpp(19,28): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\code\oop\lt\week 5\NganHang\TienTietKiem\NganHang.cpp(21,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  TienTietKiem.vcxproj -> D:\code\oop\lt\week 5\NganHang\TienTietKiem\Debug\TienTietKiem.exe

@@ -1,0 +1,2 @@
+D:\code\oop\lt\week4\demo operator\fraction\PhanSo\Debug\PhanSo.exe
+D:\code\oop\lt\week4\demo operator\fraction\PhanSo\Debug\PhanSo.pdb

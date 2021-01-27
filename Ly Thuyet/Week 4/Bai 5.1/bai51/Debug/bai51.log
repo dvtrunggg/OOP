@@ -1,0 +1,7 @@
+﻿  bai51.cpp
+D:\code\oop\lt\week4\home work\bai 5.1\bai51\bai51.cpp(109,15): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  bai51.vcxproj -> D:\code\oop\lt\week4\home work\bai 5.1\bai51\Debug\bai51.exe

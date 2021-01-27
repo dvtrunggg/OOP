@@ -1,0 +1,12 @@
+﻿  SoPhuc.cpp
+D:\code\oop\lt\week4\home work\bai 4.5\bai 4.5\SoPhuc.cpp(10,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\code\oop\lt\week4\home work\bai 4.5\bai 4.5\SoPhuc.cpp(11,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\code\oop\lt\week4\home work\bai 4.5\bai 4.5\SoPhuc.cpp(15,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\code\oop\lt\week4\home work\bai 4.5\bai 4.5\SoPhuc.cpp(154,39): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+D:\code\oop\lt\week4\home work\bai 4.5\bai 4.5\SoPhuc.cpp(155,37): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  main.cpp
+D:\code\oop\lt\week4\home work\bai 4.5\bai 4.5\main.cpp(16,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\code\oop\lt\week4\home work\bai 4.5\bai 4.5\main.cpp(16,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+D:\code\oop\lt\week4\home work\bai 4.5\bai 4.5\SoPhuc.cpp(157): warning C4717: 'operator>>': recursive on all control paths, function will cause runtime stack overflow
+  bai 4.5.vcxproj -> D:\code\oop\lt\week4\home work\bai 4.5\bai 4.5\Debug\bai 4.5.exe

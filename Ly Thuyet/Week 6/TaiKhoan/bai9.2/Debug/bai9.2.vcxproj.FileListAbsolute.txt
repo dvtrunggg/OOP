@@ -1,0 +1,4 @@
+D:\code\oop\lt\week 6\TaiKhoan\bai9.2\Debug\bai9.2.exe
+D:\code\oop\lt\week 6\TaiKhoan\bai9.2\Debug\bai9.2.pdb
+D:\code\ky2 nam2\oop\lt\week 6\TaiKhoan\bai9.2\Debug\bai9.2.exe
+D:\code\ky2 nam2\oop\lt\week 6\TaiKhoan\bai9.2\Debug\bai9.2.pdb
