@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\code\oop\TH\week 8\HinhHoc\Project1\QuanLyHinhHocPhang.h(108,20): warning C4018: '<': signed/unsigned mismatch
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall QuanLyHinhHocPhang::~QuanLyHinhHocPhang(void)" (??1QuanLyHinhHocPhang@@QAE@XZ) referenced in function _main
+D:\code\oop\TH\week 8\HinhHoc\Project1\Debug\Project1.exe : fatal error LNK1120: 1 unresolved externals

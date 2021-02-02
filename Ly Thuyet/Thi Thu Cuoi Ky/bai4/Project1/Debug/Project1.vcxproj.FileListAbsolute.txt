@@ -1,0 +1,4 @@
+C:\Users\trung\OneDrive\Desktop\tt\bai4\Project1\Debug\Project1.exe
+C:\Users\trung\OneDrive\Desktop\tt\bai4\Project1\Debug\Project1.pdb
+D:\code\oop\lt\thi thu cuoi ky\bai4\Project1\Debug\Project1.exe
+D:\code\oop\lt\thi thu cuoi ky\bai4\Project1\Debug\Project1.pdb

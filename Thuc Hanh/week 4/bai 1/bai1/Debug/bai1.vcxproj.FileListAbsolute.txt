@@ -1,0 +1,2 @@
+D:\code\oop\TH\week 4\bai 1\bai1\Debug\bai1.exe
+D:\code\oop\TH\week 4\bai 1\bai1\Debug\bai1.pdb

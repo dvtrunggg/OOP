@@ -1,0 +1,2 @@
+D:\code\oop\TH\thi giua ky\baithi\Debug\baithi.exe
+D:\code\oop\TH\thi giua ky\baithi\Debug\baithi.pdb

@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\code\oop\lt\thi thu cuoi ky\bai4\Project1\GiaoVien.h(44,21): warning C4018: '<': signed/unsigned mismatch
+D:\code\oop\lt\thi thu cuoi ky\bai4\Project1\CongTyBaoHiem.h(47,21): warning C4018: '<': signed/unsigned mismatch
+D:\code\oop\lt\thi thu cuoi ky\bai4\Project1\CongTyBaoHiem.h(55,21): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> D:\code\oop\lt\thi thu cuoi ky\bai4\Project1\Debug\Project1.exe

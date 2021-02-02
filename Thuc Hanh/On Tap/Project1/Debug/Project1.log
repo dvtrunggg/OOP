@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\code\oop\TH\on\main.cpp(4,9): fatal error C1083: Cannot open include file: 'HinhLapPhuongp': No such file or directory
+  HinhLapPhuongg.cpp
+D:\code\oop\TH\on\Project1\HinhLapPhuongg.h(2,9): fatal error C1083: Cannot open include file: 'Hinh.h': No such file or directory
+  Generating Code...
